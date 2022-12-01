@@ -3,6 +3,10 @@
   list-style-type: none;
   padding: 0;
 }
+*{
+  text-decoration: none;
+  color: black;
+}
 
 .lista {
   margin: 1rem 0;
