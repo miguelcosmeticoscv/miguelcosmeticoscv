@@ -8,6 +8,10 @@
   --color-header: white;
   --colorMiNav: white;
 }
+*{
+  text-decoration: none;
+  color: black;
+}
 
 body {
   max-width: 640px;
@@ -20,8 +24,8 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color:
-    var(--color-header);
+  background-color: #4646462c;
+  border-radius: 20px;
 }
 
 .herramientas {
@@ -41,6 +45,7 @@ header input {
 
 h1 {
   margin: 0.5rem 0;
+  text-align:center;
 }
 
 figure img {
