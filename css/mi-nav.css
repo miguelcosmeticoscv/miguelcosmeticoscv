@@ -1,7 +1,7 @@
 mi-nav {
   display: block;
-  background-color:
-    var(--colorMiNav);
+  background-color: #4646462c;
+  border-radius: 20px;
 }
 
 mi-nav ul {
